@@ -29,6 +29,7 @@ gulp.task('build', ['clean', 'jshint'], function(){
     gulp.start('jsBrowserify');
   }
   gulp.start('bower');
+  gulp.start('cssBuild');
 });
 
 gulp.task('serve', function() {
