@@ -14,11 +14,11 @@ html, body {
   margin: 0px;
   background-color: teal;
 }
-
+img {
+  border-radius: 5px;
+  float:right;
+}
 
 /**
  * Basic styles for links
  */
-a {
-  text-decoration: none;
-}
