@@ -16,7 +16,12 @@ html, body {
 }
 img {
   border-radius: 5px;
+  max-width: 40%;
   float:right;
+}
+.showInfo {
+  float: left;
+  max-width: 40%;
 }
 
 /**
