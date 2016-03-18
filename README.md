@@ -2,7 +2,7 @@
 
 #### _Allows you to view a Github user's repositories_
 
-#### By _**{List of contributors}**_
+#### By _**timothea mcguire**_
 
 ## Description
 
